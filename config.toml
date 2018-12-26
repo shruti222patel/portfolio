@@ -96,7 +96,7 @@ googleAnalytics = ""
       url = "#"
 
     [[params.services.row.list]]
-      icon = "fa-code-branch"
+      icon = "fa-brain"
       title = "Deep Learning"
       description = "I streamline complex processes using deep learning and machine learning."
       url = "#"
@@ -129,7 +129,7 @@ googleAnalytics = ""
     enable = true
     title = "History"
     subtitle = ""
-    endpoint = "</br>And more..."
+    endpoint = "And</br>more..."
 
     # The events will be listed from the top to the bottom.
     # All images are stored under 'static/img/about'.
@@ -166,7 +166,7 @@ googleAnalytics = ""
     #center = true
     title = "About Me"
     subtitle = ""
-    description = "I started my career as an Aerospace Engineer, but quickly realized I could make a greater impact working with computers. So, I taught myself programming in my free time as well as learning on the job. Now, I still happily spend much of my free time learning about the lastest technologies and methodologies."
+    description = ""
 
     # All team member's pictures are stored under 'static/img/team'.
     # Replace them with your own too.
