@@ -1,3 +1,7 @@
 [submodule "themes/hugo-agency-theme"]
 	path = themes/hugo-agency-theme
 	url = https://github.com/shruti222patel/hugo-agency-theme.git
+[submodule "public"]
+	path = public
+	url = git@github.com:shruti222patel/shruti222patel.github.io.git
+	branch = master
