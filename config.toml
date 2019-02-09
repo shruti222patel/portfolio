@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://shrutipa.tel"
 languageCode = "en-us"
-title = "Agency"
+title = "Shruti Patel"
 theme = "hugo-agency-theme"
 
 # Enter your tracking code to enable Google Analytics
