@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://shrutipa.tel"
+baseurl = "https://shrutipatel.com"
 languageCode = "en-us"
 title = "Shruti Patel"
 theme = "hugo-agency-theme"
